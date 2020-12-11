@@ -5,9 +5,18 @@
 .child.card {
     margin-top: 16px;
     padding-left: 37px;
+    background-color:#000;
+    color:#f58220 ;
+}
+.parent_Header.card-title.h5 {
+  color: #f58220;
 }
 .parent.card{
     padding-left: 27px;
+    background-color: #000;
+}
+p.card-text {
+  color: white;
 }
 
 .loader {

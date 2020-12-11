@@ -29,7 +29,7 @@ class App extends Component{
       <div className="Hello">
         <Card className="parent" style={{ width: '18rem'}}>
         <Card.Body>
-          <Card.Title>Ignite Solutions Test-2 </Card.Title>
+          <Card.Title className="parent_Header">Ignite Solutions Test-2 </Card.Title>
               <Card.Text>
                 Hello APIs Integration
               </Card.Text>
